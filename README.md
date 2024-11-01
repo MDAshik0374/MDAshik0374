@@ -1,3 +1,4 @@
+![logo](https://github.com/MDAshik0374/MDAshik0374/blob/main/binarybannerone.jpg)
 <h1 align="center">Hi 👋, I'm ASHIK MAHMOOD</h1>
 <h3 align="center">A passionate Mobile App Developer from Bangladesh</h3>
 
